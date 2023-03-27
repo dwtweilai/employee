@@ -1,0 +1,5 @@
+__pycache__/
+.idea/
+employee/__pycache__/
+user/__pycache__/
+user/migrations/
